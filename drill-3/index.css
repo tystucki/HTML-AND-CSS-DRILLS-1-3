@@ -1,0 +1,56 @@
+header {
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#square {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(24, 153, 196);
+    position: relative;
+    left: 10px;
+    top: 20px;
+
+}
+p {
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}
+
+#one {
+    height: 250px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+#two {
+    height: 250px;
+    width: 100%;
+    background-color: aqua;
+}
+
+#three {
+    height: 250px;
+    width: 100%;
+    background-color: rgb(98, 130, 60);
+}
+
+footer {
+    height: 250px;
+    width: 100%;
+    background-color: yellow;
+}
+
+#question {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    font-size: 35pt;
+    color: white;
+    text-align: center;
+    position: sticky;
+    top: 10px;
+}

@@ -1,0 +1,70 @@
+header {
+    background-color: white;
+    height: 300px;
+    width: 90%;
+    border: solid black 5pt;
+    margin: 50px auto;
+}
+
+ #shape1{
+    background-color: purple;
+    height: 170px;
+    width: 50px;
+    margin: 120px 30px ;
+}
+#shape2 {
+    background-color: green;
+    height: 240px;
+    width: 35%;
+    margin: -365px 150px;
+    
+}
+
+#shape3 {
+    background-color: aqua;
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
+    position: absolute;
+    top: 120px;
+    right: 400px;
+    
+
+}
+
+
+main {
+    background-color: white;
+    height: 300px;
+    width: 90%;
+    margin-top: 50px;
+    border: dotted black 5pt;
+    margin: 50px auto;
+ } 
+
+ #rectangle-section {
+    background-color: beige;
+    height: 70%;
+    width: 80%;
+    margin: auto;
+    margin-top: 30pt;
+    box-shadow: 5px 5px 5px 5px black;
+ }
+
+ footer {
+    background-color: white;
+    height: 300px;
+    width: 60%;
+    border: solid grey 1.5pt;
+    margin: 0 auto;
+    margin-top: 50px;
+ }
+
+ p {
+    color: purple;
+    font-size: 50pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+    
+ }
